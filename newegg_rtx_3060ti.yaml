@@ -1,1 +1,37 @@
-
+---
+refresh_interval: 40 # seconds
+max_price: 550 # dollars/euros/etc
+urls:
+#  - https://www.newegg.com/gigabyte-geforce-rtx-2070-super-gv-n207swf3oc-8gd/p/N82E16814932213 # this one is a test
+#  - https://www.newegg.com/asus-geforce-rtx-3070-dual-rtx3070-8g/p/N82E16814126460
+#  - https://www.newegg.com/msi-geforce-rtx-3070-rtx-3070-ventus-2x/p/N82E16814137605
+#  - https://www.newegg.com/msi-geforce-rtx-3070-rtx-3070-ventus-2x-oc/p/N82E16814137602
+#  - https://www.newegg.com/evga-geforce-rtx-3070-08g-p5-3751-kr/p/N82E16814487528
+#  - https://www.newegg.com/msi-geforce-rtx-3070-rtx-3070-ventus-3x-oc/p/N82E16814137601
+#  - https://www.newegg.com/gigabyte-geforce-rtx-3070-gv-n3070eagle-oc-8gd/p/N82E16814932343
+#  - https://www.newegg.com/evga-geforce-rtx-3070-08g-p5-3753-kr/p/N82E16814487529
+#  - https://www.newegg.com/evga-geforce-rtx-3070-08g-p5-3755-kr/p/N82E16814487530
+#  - https://www.newegg.com/asus-geforce-rtx-3070-tuf-rtx3070-o8g-gaming/p/N82E16814126461
+#  - https://www.newegg.com/gigabyte-geforce-rtx-3070-gv-n3070gaming-oc-8gd/p/N82E16814932342
+#  - https://www.newegg.com/msi-geforce-rtx-3070-rtx-3070-gaming-x-trio/p/N82E16814137603
+#  - https://www.newegg.com/gigabyte-geforce-rtx-3070-gv-n3070vision-oc-8gd/p/N82E16814932360
+#  - https://www.newegg.com/evga-geforce-rtx-3070-08g-p5-3765-kr/p/N82E16814487531
+#  - https://www.newegg.com/gigabyte-geforce-rtx-3070-gv-n3070eagle-8gd/p/N82E16814932344
+#  - https://www.newegg.com/gigabyte-geforce-rtx-3070-gv-n3070aorus-m-8gd/p/N82E16814932359
+#  - https://www.newegg.com/evga-geforce-rtx-3070-08g-p5-3767-kr/p/N82E16814487532
+#  - https://www.newegg.com/asus-geforce-rtx-3070-rog-strix-rtx3070-o8g-gaming/p/N82E16814126458
+  - https://www.newegg.com/asus-geforce-rtx-3060-ti-rog-strix-rtx3060ti-o8g-gaming/p/N82E16814126470?Item=N82E16814126470&Source=socialshare&cm_mmc=snc-social-_-sr-_-14-126-470-_-01122021
+  - https://www.newegg.com/gigabyte-geforce-rtx-3060-ti-gv-n306tgamingoc-pro-8gd/p/N82E16814932376?Item=N82E16814932376&Source=socialshare&cm_mmc=snc-social-_-sr-_-14-932-376-_-01122021
+  - https://www.newegg.com/asus-geforce-rtx-3060-ti-dual-rtx3060ti-8g/p/N82E16814126480?Item=N82E16814126480&Source=socialshare&cm_mmc=snc-social-_-sr-_-14-126-480-_-01122021
+  - https://www.newegg.com/msi-geforce-rtx-3060-ti-rtx-3060-ti-gaming-x-trio/p/N82E16814137611?Item=N82E16814137611&Source=socialshare&cm_mmc=snc-social-_-sr-_-14-137-611-_-01122021
+  - https://www.newegg.com/evga-geforce-rtx-3060-ti-08g-p5-3663-kr/p/N82E16814487535?Item=N82E16814487535&Source=socialshare&cm_mmc=snc-social-_-sr-_-14-487-535-_-01122021
+  - https://www.newegg.com/asus-geforce-rtx-3060-ti-tuf-rtx3060ti-o8g-gaming/p/N82E16814126471?Item=N82E16814126471&Source=socialshare&cm_mmc=snc-social-_-sr-_-14-126-471-_-01122021
+  - https://www.newegg.com/gigabyte-geforce-rtx-3060-ti-gv-n306taorus-m-8gd/p/N82E16814932375?Item=N82E16814932375&Source=socialshare&cm_mmc=snc-social-_-sr-_-14-932-375-_-01122021
+  - https://www.newegg.com/gigabyte-geforce-rtx-3060-ti-gv-n306teagle-oc-8gd/p/N82E16814932378?Item=N82E16814932378&Source=socialshare&cm_mmc=snc-social-_-sr-_-14-932-378-_-01122021
+  - https://www.newegg.com/zotac-geforce-rtx-3060-ti-zt-a30610h-10m/p/N82E16814500507?Item=N82E16814500507&Source=socialshare&cm_mmc=snc-social-_-sr-_-14-500-507-_-01122021
+  - https://www.newegg.com/msi-geforce-rtx-3060-ti-rtx-3060-ti-ventus-2x-oc/p/N82E16814137612?Item=N82E16814137612&Source=socialshare&cm_mmc=snc-social-_-sr-_-14-137-612-_-01122021
+  - https://www.newegg.com/asus-geforce-rtx-3060-ti-ko-rtx3060ti-o8g-gaming/p/N82E16814126474?Item=N82E16814126474&Source=socialshare&cm_mmc=snc-social-_-sr-_-14-126-474-_-01122021
+  - https://www.newegg.com/evga-geforce-rtx-3060-ti-08g-p5-3667-kr/p/N82E16814487537?Item=N82E16814487537&Source=socialshare&cm_mmc=snc-social-_-sr-_-14-487-537-_-01122021
+  - https://www.newegg.com/asus-geforce-rtx-3060-ti-dual-rtx3060ti-o8g/p/N82E16814126468?Item=N82E16814126468&Source=socialshare&cm_mmc=snc-social-_-sr-_-14-126-468-_-01122021
+  - https://www.newegg.com/gigabyte-geforce-rtx-3060-ti-gv-n306teagle-8gd/p/N82E16814932379?Item=N82E16814932379&Source=socialshare&cm_mmc=snc-social-_-sr-_-14-932-379-_-01122021
+...
